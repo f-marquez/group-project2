@@ -39,3 +39,5 @@ o	These are two relational databases
 ![ERD](Images/Pokemon_ERD.png)
 
 ![final](Images/final_table.PNG)
+
+## To view ppt https://drive.google.com/file/d/184zaD4wa1aWYJVgfpmaOyy9umEmwuCoz/view?usp=sharing
